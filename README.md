@@ -14,9 +14,8 @@ Esta API RESTful permite gestionar tareas a través de operaciones CRUD (Crear, 
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu_usuario/tareas-api.git
-cd tareas-api
-
+git https://github.com/JhonLandeo/prueba-fullstack-jhon.git
+cd prueba-fullstack-jhon
 ```
 
 ### 2. Instalar dependencias
